@@ -1,0 +1,1072 @@
+﻿Log file open, 05/28/18 18:51:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DirtSim
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1823440821) SRandInit(1823440821).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290423
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.681s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-8DUAELL (192.168.1.90:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/unreal engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.28-16.51.12:682][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.28-16.51.12:683][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.28-16.51.12:739][  0]LogInit: Computer: DESKTOP-8DUAELL
+[2018.05.28-16.51.12:739][  0]LogInit: User: Maël
+[2018.05.28-16.51.12:739][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.28-16.51.12:739][  0]LogInit: High frequency timer resolution =3.410084 MHz
+[2018.05.28-16.51.12:739][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.28-16.51.12:739][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.28-16.51.12:739][  0]LogMemory: Process Physical Memory: 275.45 MB used, 275.45 MB peak
+[2018.05.28-16.51.12:739][  0]LogMemory: Process Virtual Memory: 264.91 MB used, 264.91 MB peak
+[2018.05.28-16.51.12:739][  0]LogMemory: Physical Memory: 7444.02 MB used,  25264.25 MB free, 32708.27 MB total
+[2018.05.28-16.51.12:739][  0]LogMemory: Virtual Memory: 4794.20 MB used,  25264.25 MB free, 134217728.00 MB total
+[2018.05.28-16.51.12:760][  0]LogInit: Using OS detected language (fr-FR).
+[2018.05.28-16.51.12:760][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.05.28-16.51.12:765][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.05.28-16.51.13:183][  0]LogStreaming: Display: Took  0.423s to EndInitTextLocalization.
+[2018.05.28-16.51.13:183][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.28-16.51.13:214][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.28-16.51.13:214][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.28-16.51.13:658][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.28-16.51.13:698][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 775M' (Feature Level 11_0)
+[2018.05.28-16.51.13:698][  0]LogD3D11RHI:       2017/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.28-16.51.13:700][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.28-16.51.13:701][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.28-16.51.13:701][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.28-16.51.13:707][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.28-16.51.13:707][  0]LogD3D11RHI:     GPU DeviceId: 0x119d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.28-16.51.13:707][  0]LogWindows: EnumDisplayDevices:
+[2018.05.28-16.51.13:708][  0]LogWindows:    0. 'NVIDIA GeForce GTX 775M' (P:0 D:1)
+[2018.05.28-16.51.13:708][  0]LogWindows:    1. 'NVIDIA GeForce GTX 775M' (P:1 D:1)
+[2018.05.28-16.51.13:708][  0]LogWindows:    2. 'NVIDIA GeForce GTX 775M' (P:0 D:0)
+[2018.05.28-16.51.13:708][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.28-16.51.13:708][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 775M
+[2018.05.28-16.51.13:708][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.28-16.51.13:708][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.28-16.51.13:708][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.05.28-16.51.13:733][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.28-16.51.13:733][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.28-16.51.13:733][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.28-16.51.13:751][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.28-16.51.13:795][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../Jeu/DirtSim/Intermediate/Shaders/WorkingDirectory/14908/).
+[2018.05.28-16.51.13:795][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maël/AppData/Local/Temp/UnrealShaderWorkingDir/AE7CF7444ECD035CC0EC208428CC6289/'.
+[2018.05.28-16.51.14:029][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.28-16.51.14:044][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.28-16.51.14:058][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.28-16.51.14:073][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.28-16.51.14:088][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.28-16.51.14:103][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.28-16.51.14:119][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.28-16.51.14:135][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.28-16.51.14:143][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.28-16.51.14:157][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.28-16.51.14:169][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.28-16.51.14:182][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.28-16.51.14:194][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.28-16.51.14:212][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.28-16.51.14:227][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.28-16.51.14:254][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.28-16.51.14:254][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.28-16.51.14:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.28-16.51.14:268][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.28-16.51.14:308][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.28-16.51.14:320][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.28-16.51.14:333][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.28-16.51.14:345][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.28-16.51.14:358][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.28-16.51.14:370][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.28-16.51.14:370][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.28-16.51.14:544][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.28-16.51.14:544][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.28-16.51.14:544][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.28-16.51.15:527][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.28-16.51.15:599][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Maël/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.28-16.51.15:599][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maël/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.28-16.51.15:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Jeu/DirtSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.28-16.51.15:599][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.28-16.51.15:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Jeu/DirtSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.28-16.51.15:599][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.28-16.51.15:614][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.28-16.51.15:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maël/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.28-16.51.15:626][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.28-16.51.15:626][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.28-16.51.15:637][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.28-16.51.15:637][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.28-16.51.15:638][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.28-16.51.15:638][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.28-16.51.15:902][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.05.28-16.51.16:255][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.28-16.51.16:434][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.28-16.51.16:438][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.28-16.51.16:438][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.28-16.51.16:438][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.28-16.51.16:438][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.28-16.51.16:438][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.28-16.51.16:480][  0]LogNetVersion: DirtSim , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3470116585)
+[2018.05.28-16.51.17:016][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.136163 seconds
+[2018.05.28-16.51.17:023][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.28-16.51.17:023][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.28-16.51.17:023][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.28-16.51.19:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.28-16.51.19:071][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.28-16.51.19:531][  0]SourceControl: Source control is disabled
+[2018.05.28-16.51.19:531][  0]SourceControl: Source control is disabled
+[2018.05.28-16.51.19:556][  0]SourceControl: Source control is disabled
+[2018.05.28-16.51.19:581][  0]SourceControl: Source control is disabled
+[2018.05.28-16.51.20:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.28-16.51.20:531][  0]LogOcInput: OculusInput pre-init called
+[2018.05.28-16.51.20:671][  0]LogEngine: Initializing Engine...
+[2018.05.28-16.51.20:672][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.28-16.51.20:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.28-16.51.20:674][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.28-16.51.20:888][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.28-16.51.20:902][  0]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-16.51.20:914][  0]LogInit: FAudioDevice initialized.
+[2018.05.28-16.51.21:593][  0]LogDerivedDataCache: Saved boot cache 0.68s 74MB C:/Users/Maël/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.28-16.51.21:602][  0]LogInit: Texture streaming: Enabled
+[2018.05.28-16.51.21:623][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.28-16.51.21:700][  0]LogInit: Transaction tracking system initialized
+[2018.05.28-16.51.21:731][  0]BlueprintLog: New page: Editor Load
+[2018.05.28-16.51.21:828][  0]LocalizationService: Localization service is disabled
+[2018.05.28-16.51.21:977][  0]LogConsoleResponse: Display: 
+[2018.05.28-16.51.22:196][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.28-16.51.22:196][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.28-16.51.22:196][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.28-16.51.22:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.28-16.51.22:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.28-16.51.22:702][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/Jeu/DirtSim/Content/' took 0.03s
+[2018.05.28-16.51.22:702][  0]SourceControl: Source control is disabled
+[2018.05.28-16.51.22:702][  0]Cmd: MAP LOAD FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.28-16.51.22:703][  0]LightingResults: New page: Lighting Build
+[2018.05.28-16.51.22:706][  0]MapCheck: New page: Map Check
+[2018.05.28-16.51.22:706][  0]LightingResults: New page: Lighting Build
+[2018.05.28-16.51.22:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89d31a60, Size=4, Default__VehicleAnimationBlueprint_C Function /Game/VehicleAdv/Vehicle/VehicleAnimationBlueprint.VehicleAnimationBlueprint_C:ExecuteUbergraph_VehicleAnimationBlueprint
+[2018.05.28-16.51.23:020][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89d31a60, Size=4
+[2018.05.28-16.51.23:020][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89d31a60, Size=4, Default__VehicleAnimationBlueprint_C Function /Engine/Transient.REINST_VehicleAnimationBlueprint_C_0:ExecuteUbergraph_VehicleAnimationBlueprint
+[2018.05.28-16.51.23:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89d312c8, Size=4, Default__VehicleAnimationBlueprint_C Function /Game/VehicleAdv/Vehicle/VehicleAnimationBlueprint.VehicleAnimationBlueprint_C:ExecuteUbergraph_VehicleAnimationBlueprint
+[2018.05.28-16.51.23:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fffe970100, Size=1968, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-16.51.23:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001fff5457640, Size=176, Default__VehicleAdvHud_C Function /Game/VehicleAdvBP/Blueprints/VehicleAdvHud.VehicleAdvHud_C:ExecuteUbergraph_VehicleAdvHud
+[2018.05.28-16.51.23:367][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fff5457640, Size=176
+[2018.05.28-16.51.23:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff92a8ad40, Size=176, Default__VehicleAdvHud_C Function /Engine/Transient.REINST_VehicleAdvHud_C_6:ExecuteUbergraph_VehicleAdvHud
+[2018.05.28-16.51.23:369][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001fffe970100, Size=1968
+[2018.05.28-16.51.23:369][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff8cf7d600, Size=1968, Default__VehicleBlueprint_C Function /Engine/Transient.REINST_VehicleBlueprint_C_7:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-16.51.23:393][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff928e2140, Size=176, Default__VehicleAdvHud_C Function /Game/VehicleAdvBP/Blueprints/VehicleAdvHud.VehicleAdvHud_C:ExecuteUbergraph_VehicleAdvHud
+[2018.05.28-16.51.23:401][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89c46080, Size=1968, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-16.51.23:449][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89c15200, Size=64, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-16.51.23:451][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89c15200, Size=64
+[2018.05.28-16.51.23:451][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89c16840, Size=64, Default__Stats_C Function /Engine/Transient.REINST_Stats_C_10:ExecuteUbergraph_Stats
+[2018.05.28-16.51.23:460][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89c16ec0, Size=64, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-16.51.23:622][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff9299e800, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-16.51.23:624][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff9299e800, Size=120
+[2018.05.28-16.51.23:624][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff9299e800, Size=120, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_12:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-16.51.23:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff9299c400, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-16.51.24:899][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [20.663420ms] /Game/VehicleAdv/Vehicle/Vehicle_SkelMesh.Vehicle_SkelMesh
+[2018.05.28-16.51.25:288][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-16.51.25:896][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.28-16.51.25:909][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89d31a60, Size=4
+[2018.05.28-16.51.25:909][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff8cf7d600, Size=1968
+[2018.05.28-16.51.25:909][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff92a8ad40, Size=176
+[2018.05.28-16.51.25:909][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89c16840, Size=64
+[2018.05.28-16.51.25:909][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff9299e800, Size=120
+[2018.05.28-16.51.25:911][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.28-16.51.26:010][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100,05ms to complete.
+[2018.05.28-16.51.26:010][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 3.308
+[2018.05.28-16.51.26:571][  0]LogCollectionManager: Loaded 0 collections in 0.012190 seconds
+[2018.05.28-16.51.26:755][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/Jeu/DirtSim/Saved/Collections/' took 0.01s
+[2018.05.28-16.51.26:755][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/Jeu/DirtSim/Content/Developers/Maël/Collections/' took 0.01s
+[2018.05.28-16.51.26:755][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/Jeu/DirtSim/Content/Collections/' took 0.01s
+[2018.05.28-16.51.26:755][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.28-16.51.26:803][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2454 classes and 561 folders.
+[2018.05.28-16.51.26:854][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.28-16.51.27:667][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.28-16.51.27:750][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.28-16.51.28:156][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.28-16.51.28:158][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.28-16.51.28:186][  0]LogSlate: Took 0.015113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.28-16.51.28:501][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.05.28-16.51.28:840][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.28-16.51.28:840][  0]LogLoad: (Engine Initialization) Total time: 20.23 seconds
+[2018.05.28-16.51.28:840][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.28-16.51.28:862][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.28-16.51.28:864][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.05.28-16.51.28:864][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.05.28-16.51.28:864][  0]LogRawInputWindows: VenderID:1234 ProductID:bead
+[2018.05.28-16.51.28:864][  0]LogRawInputWindows: Device was registered succesfully and is connected (Usage:4 UsagePage:1)
+[2018.05.28-16.51.28:898][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.28-16.51.29:228][  1]LogAssetRegistry: Asset discovery search completed in 13.3479 seconds
+[2018.05.28-16.51.29:230][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.28-16.51.29:230][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2018.05.28-16.52.39:932][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-16.52.41:862][912]LogSlate: Took 0.007136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.28-16.52.55:874][912]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.28-16.58.40:371][384]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.05.28-16.58.40:835][384]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff8fdacf08, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.28-16.58.40:836][384]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff8fdacf00, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.28-16.58.45:589][500]LogRenderer: Reallocating scene render targets to support 1616x1016 Format 10 NumSamples 1 (Frame:118).
+[2018.05.28-16.58.53:709][973]LogSlate: Window 'PlayerHud*' being destroyed
+[2018.05.28-16.58.53:788][973]LogSlate: Window 'PlayerHud*' being destroyed
+[2018.05.28-16.59.31:131][956]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.28-16.59.48:995][446]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.28-16.59.54:423][872]LogMetaData: Removing '/Game/VehicleAdvBP/Blueprints/PlayerHud.SKEL_PlayerHud_C' ref from Metadata '/Game/VehicleAdvBP/Blueprints/Player-Hud.PackageMetaData'
+[2018.05.28-16.59.54:423][872]LogMetaData: Removing '/Game/VehicleAdvBP/Blueprints/PlayerHud.PlayerHud_C' ref from Metadata '/Game/VehicleAdvBP/Blueprints/Player-Hud.PackageMetaData'
+[2018.05.28-16.59.54:423][872]LogMetaData: Removing '/Game/VehicleAdvBP/Blueprints/PlayerHud.PlayerHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VehicleAdvBP/Blueprints/Player-Hud.PackageMetaData'
+[2018.05.28-16.59.54:423][872]LogMetaData: Removing '/Game/VehicleAdvBP/Blueprints/PlayerHud.PlayerHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VehicleAdvBP/Blueprints/Player-Hud.PackageMetaData'
+[2018.05.28-16.59.54:423][872]LogMetaData: Removing '/Game/VehicleAdvBP/Blueprints/PlayerHud.PlayerHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VehicleAdvBP/Blueprints/Player-Hud.PackageMetaData'
+[2018.05.28-16.59.54:477][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-16.59.54:607][872]LogSavePackage: Save=56.07ms
+[2018.05.28-16.59.54:607][872]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud631E44724AF4CCD87C123B9BC7717F19.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-16.59.54:652][872]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-16.59.56:933][930]LogSlate: Took 0.057191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.28-17.01.37:163][738]LogSlate: Took 0.140306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.05.28-17.04.26:181][567]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.021
+[2018.05.28-17.04.26:204][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/PlayerHud] ([1] browsable assets)...
+[2018.05.28-17.04.26:204][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/PlayerHud]
+[2018.05.28-17.04.26:204][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-17.04.26:343][567]LogSavePackage: Save=21.09ms
+[2018.05.28-17.04.26:344][567]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud_Auto1B494405244A6C7893A8E288CC73FE41F.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto1.uasset'
+[2018.05.28-17.04.26:349][567]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto1.uasset
+[2018.05.28-17.04.26:349][567]LogFileHelpers: Auto-saving content packages took 0.167
+[2018.05.28-17.14.00:781][344]LogSlate: Window 'Details' being destroyed
+[2018.05.28-17.14.08:239][742]LogSlate: Window 'Widget Reflector' being destroyed
+[2018.05.28-17.14.08:247][742]LogSlate: Window 'Widget Reflector' being destroyed
+[2018.05.28-17.15.24:894][789]LogSlate: Window 'Details' being destroyed
+[2018.05.28-17.15.54:480][239]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.028 s
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: 
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UMGEditor\Private\WidgetBlueprintEditor.cpp] [Line: 789]
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: 
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: Stack: 
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x000000001385B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x00000000135BAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x00000000135CECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x0000000005F5F270 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x0000000005FBEAAE UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x000000000796FA0C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x000000000797470C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x00000000F7B835C7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x000000000890BB47 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.28-17.15.54:480][239]LogOutputDevice: Error: [Callstack] 0x0000000006004BFA UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005FA6BA4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005F6E3F7 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005F728E7 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000011B658E5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000011985A74 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000011927584 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005F2447C UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005FC56F2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005F6FCF6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005F1A275 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000006010C3D UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000000600CC99 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000005FD475E UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000011915366 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x00000000118E72DC UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001197DAB7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001196782C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001195AD33 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001EABE73E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001EAB1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001EAC052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001EAAD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000004F4E6CC1 USER32.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000004F4E6693 USER32.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000001EAC1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x00000000047F5475 UE4Editor.exe!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000004806BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000004806C4A UE4Editor.exe!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000004814177 UE4Editor.exe!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000004815B87 UE4Editor.exe!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x000000004F3C3034 KERNEL32.DLL!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: [Callstack] 0x0000000051F91551 ntdll.dll!UnknownFunction []
+[2018.05.28-17.15.54:481][239]LogOutputDevice: Error: 
+[2018.05.28-17.15.54:485][239]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.28-17.16.08:902][239]LogStats:                    SendNewReport - 14.418 s
+[2018.05.28-17.16.08:902][239]LogStats:             FDebug::EnsureFailed - 18.451 s
+[2018.05.28-17.16.08:902][239]LogBlueprint: Warning: [Compiler ] Leak Detected!  CanvasPanel_0 ( Canvas Panel ) still has living Slate widgets, it or the parent widget is keeping them in memory.  Release all Slate resources in ReleaseSlateResources().
+[2018.05.28-17.16.09:051][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.022
+[2018.05.28-17.16.09:053][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/PlayerHud] ([1] browsable assets)...
+[2018.05.28-17.16.09:053][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/PlayerHud]
+[2018.05.28-17.16.09:053][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-17.16.09:110][240]LogSavePackage: Save=11.20ms
+[2018.05.28-17.16.09:110][240]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud_Auto216BA51234A0A48E214480E8D80D08F73.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto2.uasset'
+[2018.05.28-17.16.09:112][240]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto2.uasset
+[2018.05.28-17.16.09:112][240]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.05.28-17.17.16:704][545]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.28-17.17.29:981][247]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.28-17.17.43:292][932]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.28-17.17.48:625][205]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.28-17.18.24:521][222]LogEditorTransaction: Undo Move Widget
+[2018.05.28-17.18.27:629][394]LogEditorTransaction: Undo Move Widget
+[2018.05.28-17.22.14:275][778]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.22.15:250][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-17.22.15:304][854]LogSavePackage: Save=12.30ms
+[2018.05.28-17.22.15:304][854]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHudBA19E4DC44AA42A11E38E3B33BCE18A5.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-17.22.15:310][854]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-17.22.23:620][371]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc0bf0, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.24:237][405]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc0bf0, Size=4
+[2018.05.28-17.22.24:237][405]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc0bf0, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_83:ExecuteUbergraph_Stats
+[2018.05.28-17.22.24:238][405]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1538, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.24:651][431]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1538, Size=4
+[2018.05.28-17.22.24:651][431]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1538, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_85:ExecuteUbergraph_Stats
+[2018.05.28-17.22.24:652][431]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1888, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.25:002][444]LogSlate: Took 0.065932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.28-17.22.27:194][605]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.22.27:199][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1888, Size=4
+[2018.05.28-17.22.27:199][605]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1888, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_87:ExecuteUbergraph_Stats
+[2018.05.28-17.22.27:204][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89c16ec0, Size=64
+[2018.05.28-17.22.27:204][605]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb8d84ac0, Size=64, Default__Stats_C Function /Engine/Transient.REINST_Stats_C_89:ExecuteUbergraph_Stats
+[2018.05.28-17.22.27:206][605]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb8d84e40, Size=64, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.27:503][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1888, Size=4
+[2018.05.28-17.22.27:503][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1538, Size=4
+[2018.05.28-17.22.27:504][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc0bf0, Size=4
+[2018.05.28-17.22.28:262][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.22.28:316][653]LogSavePackage: Save=13.43ms
+[2018.05.28-17.22.28:316][653]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/StatsAEF5B0EC4BD9AF8495564A80B05312B6.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.22.28:321][653]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.22.31:960][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc3e70, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.35:289][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc3e70, Size=4
+[2018.05.28-17.22.35:289][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc3e70, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_93:ExecuteUbergraph_Stats
+[2018.05.28-17.22.35:290][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc31a8, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.36:644][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc31a8, Size=4
+[2018.05.28-17.22.36:644][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc31a8, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_95:ExecuteUbergraph_Stats
+[2018.05.28-17.22.36:645][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc2460, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.36:651][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc2460, Size=4
+[2018.05.28-17.22.36:651][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc2460, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_97:ExecuteUbergraph_Stats
+[2018.05.28-17.22.36:652][288]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc3e60, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.38:416][422]LogSlate: Took 0.054086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.28-17.22.44:530][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc3e60, Size=4
+[2018.05.28-17.22.44:530][962]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc3e60, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_99:ExecuteUbergraph_Stats
+[2018.05.28-17.22.44:532][962]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc2558, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.47:392][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc2558, Size=4
+[2018.05.28-17.22.47:392][187]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc2558, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_101:ExecuteUbergraph_Stats
+[2018.05.28-17.22.47:393][187]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc09a8, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.52:760][599]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.22.52:763][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc09a8, Size=4
+[2018.05.28-17.22.52:763][599]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc09a8, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_103:ExecuteUbergraph_Stats
+[2018.05.28-17.22.52:767][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb8d84e40, Size=64
+[2018.05.28-17.22.52:767][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb4f9ebc0, Size=64, Stats_C_23 Function /Engine/Transient.REINST_Stats_C_105:ExecuteUbergraph_Stats
+[2018.05.28-17.22.52:769][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb4f9f5c0, Size=64, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc09a8, Size=4
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc2558, Size=4
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc3e60, Size=4
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc2460, Size=4
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc31a8, Size=4
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc3e70, Size=4
+[2018.05.28-17.22.53:018][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb8d84ac0, Size=64
+[2018.05.28-17.22.53:525][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.22.53:577][631]LogSavePackage: Save=12.75ms
+[2018.05.28-17.22.53:577][631]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/Stats393732EB4F44A19110201C80E2EEE10D.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.22.53:582][631]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.22.55:477][784]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.22.55:502][784]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb4f9ebc0, Size=64
+[2018.05.28-17.25.43:566][144]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-17.26.15:230][241]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc0b08, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.26.20:875][695]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc0b08, Size=4
+[2018.05.28-17.26.20:875][695]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc0b08, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_111:ExecuteUbergraph_Stats
+[2018.05.28-17.26.20:877][695]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc02b0, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.26.28:097][262]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc02b0, Size=4
+[2018.05.28-17.26.28:097][262]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc02b0, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_113:ExecuteUbergraph_Stats
+[2018.05.28-17.26.28:098][262]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc01d0, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.26.35:506][785]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.26.35:510][785]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc01d0, Size=4
+[2018.05.28-17.26.35:510][785]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc01d0, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_115:ExecuteUbergraph_Stats
+[2018.05.28-17.26.35:515][785]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb4f9f5c0, Size=64
+[2018.05.28-17.26.35:515][785]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb4cc7ac0, Size=64, Default__Stats_C Function /Engine/Transient.REINST_Stats_C_118:ExecuteUbergraph_Stats
+[2018.05.28-17.26.35:516][785]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb4cc69c0, Size=64, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.26.35:762][785]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc0b08, Size=4
+[2018.05.28-17.26.35:762][785]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc01d0, Size=4
+[2018.05.28-17.26.35:762][785]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc02b0, Size=4
+[2018.05.28-17.26.37:269][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1eb0, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.26.38:497][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.26.38:547][976]LogSavePackage: Save=13.72ms
+[2018.05.28-17.26.38:547][976]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/StatsA25F660E4990B6E6126A37B52958A41C.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.26.38:553][976]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.26.38:942][  2]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.26.38:947][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1eb0, Size=4
+[2018.05.28-17.26.38:947][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1eb0, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_122:ExecuteUbergraph_Stats
+[2018.05.28-17.26.38:951][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb4cc69c0, Size=64
+[2018.05.28-17.26.38:951][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb4a44940, Size=64, Stats_C_42 Function /Engine/Transient.REINST_Stats_C_125:ExecuteUbergraph_Stats
+[2018.05.28-17.26.38:952][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb4a45bc0, Size=64, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.26.39:204][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb4cc7ac0, Size=64
+[2018.05.28-17.26.39:204][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1eb0, Size=4
+[2018.05.28-17.26.39:572][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.26.39:619][ 26]LogSavePackage: Save=13.48ms
+[2018.05.28-17.26.39:619][ 26]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/StatsB6B6976B443A48CCA9B864BC49E23A04.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.26.39:622][ 26]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.27.05:069][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb4a44940, Size=64
+[2018.05.28-17.27.05:494][755]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff9299c400, Size=120
+[2018.05.28-17.27.05:494][755]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016d21c80, Size=120, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_129:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-17.27.05:496][755]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016d21680, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-17.27.05:810][755]LogSavePackage: Save=339.29ms
+[2018.05.28-17.27.05:810][755]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleAdvExampleMap_Auto33B7ADC6F4CE6D6654A4F78BA5A385E36.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap'
+[2018.05.28-17.27.05:813][755]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto3.umap
+[2018.05.28-17.27.05:833][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.784
+[2018.05.28-17.27.05:833][755]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.784
+[2018.05.28-17.27.05:835][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/PlayerHud] ([1] browsable assets)...
+[2018.05.28-17.27.05:835][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/PlayerHud]
+[2018.05.28-17.27.05:835][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-17.27.05:881][755]LogSavePackage: Save=13.86ms
+[2018.05.28-17.27.05:881][755]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud_Auto3EC3E41D841DCDDE1D470D7B345959639.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto3.uasset'
+[2018.05.28-17.27.05:883][755]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto3.uasset
+[2018.05.28-17.27.05:883][755]LogFileHelpers: Auto-saving content packages took 0.049
+[2018.05.28-17.28.24:160][686]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.28.24:193][686]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016d21c80, Size=120
+[2018.05.28-17.28.25:115][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-17.28.25:325][749]LogSavePackage: Save=17.56ms
+[2018.05.28-17.28.25:325][749]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHudDBDDB3B544000FF5167FC4AAC24AA5DB.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-17.28.25:331][749]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-17.28.31:071][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc0cd0, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.28.34:898][498]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc0cd0, Size=4
+[2018.05.28-17.28.34:898][498]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc0cd0, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_135:ExecuteUbergraph_Stats
+[2018.05.28-17.28.34:900][498]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1de8, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.28.42:056][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1de8, Size=4
+[2018.05.28-17.28.42:056][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc1de8, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_137:ExecuteUbergraph_Stats
+[2018.05.28-17.28.42:058][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc17c8, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.29.16:441][514]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.29.16:444][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc17c8, Size=4
+[2018.05.28-17.29.16:444][514]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc17c8, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_139:ExecuteUbergraph_Stats
+[2018.05.28-17.29.16:997][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb4a45bc0, Size=64
+[2018.05.28-17.29.16:997][514]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020018988400, Size=64, Default__Stats_C Function /Engine/Transient.REINST_Stats_C_142:ExecuteUbergraph_Stats
+[2018.05.28-17.29.16:999][514]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200188f5030, Size=48, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.29.17:250][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc17c8, Size=4
+[2018.05.28-17.29.17:250][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc1de8, Size=4
+[2018.05.28-17.29.17:250][514]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc0cd0, Size=4
+[2018.05.28-17.29.17:648][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.29.17:707][540]LogSavePackage: Save=12.43ms
+[2018.05.28-17.29.17:707][540]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/StatsFFF12CA740BC066864C38488D90869A2.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.29.17:711][540]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.31.11:853][149]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb6af9d80, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.32.42:167][972]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.32.42:173][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb6af9d80, Size=4
+[2018.05.28-17.32.42:173][972]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc2120, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_146:ExecuteUbergraph_Stats
+[2018.05.28-17.32.42:500][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200188f5030, Size=48
+[2018.05.28-17.32.42:500][972]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020023509570, Size=48, Stats_C_63 Function /Engine/Transient.REINST_Stats_C_149:ExecuteUbergraph_Stats
+[2018.05.28-17.32.42:503][972]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002315d8f0, Size=72, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.32.42:753][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020018988400, Size=64
+[2018.05.28-17.32.42:753][972]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc2120, Size=4
+[2018.05.28-17.32.43:162][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.32.43:217][999]LogSavePackage: Save=18.37ms
+[2018.05.28-17.32.43:218][999]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/StatsB859601A458FCC86BA72E8BE59F16243.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.32.43:223][999]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.33.15:258][257]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffb6afb428, Size=4, Default__SKEL_Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.SKEL_Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.33.21:881][739]BlueprintLog: New page: Compile Stats
+[2018.05.28-17.33.21:887][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffb6afb428, Size=4
+[2018.05.28-17.33.21:887][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020016cc22b0, Size=4, Default__SKEL_Stats_C Function /Engine/Transient.REINST_SKEL_Stats_C_153:ExecuteUbergraph_Stats
+[2018.05.28-17.33.21:897][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002002315d8f0, Size=72
+[2018.05.28-17.33.21:897][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020025893150, Size=72, Default__Stats_C Function /Engine/Transient.REINST_Stats_C_156:ExecuteUbergraph_Stats
+[2018.05.28-17.33.21:900][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020025890810, Size=72, Default__Stats_C Function /Game/VehicleAdvBP/Blueprints/Stats.Stats_C:ExecuteUbergraph_Stats
+[2018.05.28-17.33.22:156][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016cc22b0, Size=4
+[2018.05.28-17.33.22:603][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.33.22:660][767]LogSavePackage: Save=19.67ms
+[2018.05.28-17.33.22:661][767]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/Stats0A02E55E4F72F2ACE998478432E18934.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.33.22:667][767]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.34.00:187][677]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.34.00:215][677]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020025893150, Size=72
+[2018.05.28-17.34.00:944][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-17.34.01:321][718]LogSavePackage: Save=15.00ms
+[2018.05.28-17.34.01:321][718]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud2782125F420DF30D711A78BE61EA8583.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-17.34.01:327][718]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-17.34.50:988][185]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-17.35.29:499][502]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.35.29:509][502]LogBlueprint: Error: [Compiler PlayerHud] Binding: Property ' Color and Opacity Delegate ' on Widget ' Level ': Binding: 'None' : 'None' was not found on 'Player Hud'.
+[2018.05.28-17.35.29:540][502]LogBlueprint: Warning: [Compiler PlayerHud] [2660,93] Compile of PlayerHud failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/VehicleAdvBP/Blueprints/PlayerHud.PlayerHud)
+[2018.05.28-17.35.46:835][589]LogBlueprint: Warning: Unknown type of hyperlinked object (ColorAndOpacityDelegate), cannot focus it
+[2018.05.28-17.35.46:956][599]LogBlueprint: Warning: Unknown type of hyperlinked object (ColorAndOpacityDelegate), cannot focus it
+[2018.05.28-17.35.47:210][621]LogBlueprint: Warning: Unknown type of hyperlinked object (ColorAndOpacityDelegate), cannot focus it
+[2018.05.28-17.35.49:959][795]LogBlueprint: Warning: Unknown type of hyperlinked object (ColorAndOpacityDelegate), cannot focus it
+[2018.05.28-17.35.50:374][822]LogBlueprint: Warning: Unknown type of hyperlinked object (ColorAndOpacityDelegate), cannot focus it
+[2018.05.28-17.35.50:681][842]LogBlueprint: Warning: Unknown type of hyperlinked object (ColorAndOpacityDelegate), cannot focus it
+[2018.05.28-17.35.51:941][920]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.35.51:952][920]LogBlueprint: Error: [Compiler PlayerHud] Binding: Property ' Color and Opacity Delegate ' on Widget ' Level ': Binding: 'None' : 'None' was not found on 'Player Hud'.
+[2018.05.28-17.35.51:983][920]LogBlueprint: Warning: [Compiler PlayerHud] [2683,37] Compile of PlayerHud failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/VehicleAdvBP/Blueprints/PlayerHud.PlayerHud)
+[2018.05.28-17.35.58:770][284]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-17.35.59:618][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-17.35.59:678][322]LogSavePackage: Save=19.56ms
+[2018.05.28-17.35.59:678][322]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud781524B1436255B4DE416BAF35990282.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-17.35.59:684][322]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-17.37.25:205][336]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020016d21680, Size=120
+[2018.05.28-17.37.25:205][336]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002b841380, Size=120, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_178:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-17.37.25:207][336]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002b841180, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-17.37.25:536][336]LogSavePackage: Save=336.18ms
+[2018.05.28-17.37.25:536][336]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleAdvExampleMap_Auto4C619EE0C40AF2B3D70AD67B10D65E554.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto4.umap'
+[2018.05.28-17.37.25:539][336]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto4.umap
+[2018.05.28-17.37.25:544][336]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.421
+[2018.05.28-17.37.25:544][336]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2018.05.28-17.37.25:548][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/PlayerHud] ([1] browsable assets)...
+[2018.05.28-17.37.25:548][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/PlayerHud]
+[2018.05.28-17.37.25:548][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-17.37.25:603][336]LogSavePackage: Save=20.02ms
+[2018.05.28-17.37.25:603][336]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud_Auto49B28970F461C8189CF68E2884DAD47CC.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto4.uasset'
+[2018.05.28-17.37.25:606][336]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto4.uasset
+[2018.05.28-17.37.25:606][336]LogFileHelpers: Auto-saving content packages took 0.059
+[2018.05.28-17.52.12:258][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset" SILENT=true
+[2018.05.28-17.52.12:856][743]LogSavePackage: Save=19.84ms
+[2018.05.28-17.52.12:856][743]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/Stats9248AC5C4D73DF105C0828A46E726048.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset'
+[2018.05.28-17.52.12:859][743]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/Stats.uasset
+[2018.05.28-17.52.15:008][919]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.28-17.52.15:134][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-17.52.15:135][919]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.28-17.52.15:139][919]LogPlayLevel: [PlayLevel] Compiling PlayerHud before play...
+[2018.05.28-17.52.15:249][919]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002002b841380, Size=120
+[2018.05.28-17.52.15:250][919]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2018.05.28-17.52.15:251][919]PIE: New page: PIE session: VehicleAdvExampleMap (28 mai 2018 21:52:15)
+[2018.05.28-17.52.15:251][919]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.05.28-17.52.15:280][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028979s)
+[2018.05.28-17.52.15:281][919]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-17.52.15:281][919]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.05.28-17.52.15:282][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.030145s)
+[2018.05.28-17.52.15:314][919]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-17.52.15:347][919]LogInit: FAudioDevice initialized.
+[2018.05.28-17.52.15:424][919]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.28-17.52.15:433][919]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.05.28-19.52.15
+[2018.05.28-17.52.15:434][919]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-17.52.15:434][919]LogWorld: Bringing up level for play took: 0.004564
+[2018.05.28-17.52.15:482][919]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.05.28-17.52.15:519][919]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0,644
+[2018.05.28-17.52.15:519][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-17.52.16:266][979]LogBlueprintUserMessages: [Stats_342] km travel :0.0m
+[2018.05.28-17.52.17:215][ 81]LogBlueprintUserMessages: [Stats_342] km travel :1.908763m
+[2018.05.28-17.52.18:223][190]LogBlueprintUserMessages: [Stats_342] km travel :2.006875m
+[2018.05.28-17.52.18:460][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-17.52.18:521][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-17.52.51:843][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.021
+[2018.05.28-17.52.51:846][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/PlayerHud] ([1] browsable assets)...
+[2018.05.28-17.52.51:846][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/PlayerHud]
+[2018.05.28-17.52.51:846][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-17.52.51:903][947]LogSavePackage: Save=18.69ms
+[2018.05.28-17.52.51:903][947]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud_Auto57504744C41EDD703E8AC988814FE5F09.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto5.uasset'
+[2018.05.28-17.52.51:905][947]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHud_Auto5.uasset
+[2018.05.28-17.52.51:906][947]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.05.28-18.14.36:469][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-18.14.45:566][255]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020032c29268, Size=4, Default__SKEL_VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.SKEL_VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.15.22:623][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.025
+[2018.05.28-18.15.22:626][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2018.05.28-18.15.22:655][199]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2018.05.28-18.15.22:655][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2018.05.28-18.15.22:888][199]LogSavePackage: Save=188.51ms
+[2018.05.28-18.15.22:889][199]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleBlueprint_Auto6662EB8894DBE2E600DAA00BC85B08072.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto6.uasset'
+[2018.05.28-18.15.22:891][199]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto6.uasset
+[2018.05.28-18.15.22:892][199]LogFileHelpers: Auto-saving content packages took 0.267
+[2018.05.28-18.18.29:634][342]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-18.18.55:454][485]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020032c29268, Size=4
+[2018.05.28-18.18.55:454][485]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020032c29268, Size=4, Default__SKEL_VehicleBlueprint_C Function /Engine/Transient.REINST_SKEL_VehicleBlueprint_C_186:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.18.55:466][485]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020032c294d0, Size=4, Default__SKEL_VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.SKEL_VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.20.15:283][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020032c294d0, Size=4
+[2018.05.28-18.20.15:283][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200152d24b8, Size=4, Default__SKEL_VehicleBlueprint_C Function /Engine/Transient.REINST_SKEL_VehicleBlueprint_C_188:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.20.15:294][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200152d3d40, Size=4, Default__SKEL_VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.SKEL_VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.20.36:245][768]BlueprintLog: New page: Compile VehicleBlueprint
+[2018.05.28-18.20.36:321][768]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200152d3d40, Size=4
+[2018.05.28-18.20.36:321][768]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002cca58c0, Size=4, Default__SKEL_VehicleBlueprint_C Function /Engine/Transient.REINST_SKEL_VehicleBlueprint_C_193:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.20.36:744][768]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89c46080, Size=1968
+[2018.05.28-18.20.36:744][768]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002d4d0100, Size=1968, Default__VehicleBlueprint_C Function /Engine/Transient.REINST_VehicleBlueprint_C_198:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.20.36:770][768]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ff89c44b80, Size=1968, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.20.37:055][768]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002002cca58c0, Size=4
+[2018.05.28-18.20.37:795][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/VehicleBlueprint" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" SILENT=true
+[2018.05.28-18.20.38:048][797]LogSavePackage: Save=209.20ms
+[2018.05.28-18.20.38:048][797]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleBlueprint85AC17C64E61B5FA62551C8AE2BEEA88.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2018.05.28-18.20.38:053][797]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset
+[2018.05.28-18.20.41:145][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-18.20.41:203][ 29]LogSavePackage: Save=18.78ms
+[2018.05.28-18.20.41:203][ 29]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud56CE44544082AF73552EF1B9290CDC51.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-18.20.41:207][ 29]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-18.20.50:800][264]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.28-18.20.50:827][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.20.50:827][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.28-18.20.50:827][264]PIE: New page: PIE session: VehicleAdvExampleMap (28 mai 2018 22:20:50)
+[2018.05.28-18.20.50:827][264]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.05.28-18.20.50:846][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018546s)
+[2018.05.28-18.20.50:847][264]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-18.20.50:847][264]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2018.05.28-18.20.50:847][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.019600s)
+[2018.05.28-18.20.50:868][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002002d4d0100, Size=1968
+[2018.05.28-18.20.50:875][264]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-18.20.50:883][264]LogInit: FAudioDevice initialized.
+[2018.05.28-18.20.50:919][264]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.28-18.20.50:928][264]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.05.28-20.20.50
+[2018.05.28-18.20.50:928][264]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-18.20.50:928][264]LogWorld: Bringing up level for play took: 0.003957
+[2018.05.28-18.20.50:931][264]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0,056
+[2018.05.28-18.20.50:931][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.20.51:798][349]LogBlueprintUserMessages: [Stats_342] km travel :0.0m
+[2018.05.28-18.20.52:800][457]LogBlueprintUserMessages: [Stats_342] km travel :1.881748m
+[2018.05.28-18.20.53:802][562]LogBlueprintUserMessages: [Stats_342] km travel :1.954316m
+[2018.05.28-18.20.54:812][662]LogBlueprintUserMessages: [Stats_342] km travel :1.958388m
+[2018.05.28-18.20.55:200][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.20.55:241][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.21.57:111][616]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-18.22.28:929][254]BlueprintLog: New page: Compile PlayerHud
+[2018.05.28-18.22.30:023][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/PlayerHud" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset" SILENT=true
+[2018.05.28-18.22.30:126][283]LogSavePackage: Save=21.14ms
+[2018.05.28-18.22.30:126][283]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/PlayerHud3663125C4FDD19BDD771C4877F3FD794.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset'
+[2018.05.28-18.22.30:132][283]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/PlayerHud.uasset
+[2018.05.28-18.24.00:241][144]BlueprintLog: New page: Compile VehicleBlueprint
+[2018.05.28-18.24.00:723][144]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ff89c44b80, Size=1968
+[2018.05.28-18.24.00:724][144]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002ee6e080, Size=1968, Default__VehicleBlueprint_C Function /Engine/Transient.REINST_VehicleBlueprint_C_212:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.24.00:750][144]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020048940b80, Size=1968, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.24.02:105][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/VehicleBlueprint" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" SILENT=true
+[2018.05.28-18.24.02:401][196]LogSavePackage: Save=258.18ms
+[2018.05.28-18.24.02:401][196]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleBlueprintB42FB95A44B63914B4AD75ACCA0EDFF7.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2018.05.28-18.24.02:408][196]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset
+[2018.05.28-18.24.05:367][367]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2018.05.28-18.24.05:962][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-18.24.06:004][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.28-18.24.06:029][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.24.06:029][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.28-18.24.06:030][400]PIE: New page: PIE session: VehicleAdvExampleMap (28 mai 2018 22:24:06)
+[2018.05.28-18.24.06:030][400]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.05.28-18.24.06:048][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018535s)
+[2018.05.28-18.24.06:049][400]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-18.24.06:050][400]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2018.05.28-18.24.06:050][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.020220s)
+[2018.05.28-18.24.06:074][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002002ee6e080, Size=1968
+[2018.05.28-18.24.06:081][400]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-18.24.06:090][400]LogInit: FAudioDevice initialized.
+[2018.05.28-18.24.06:123][400]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.28-18.24.06:132][400]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.05.28-20.24.06
+[2018.05.28-18.24.06:133][400]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-18.24.06:133][400]LogWorld: Bringing up level for play took: 0.004951
+[2018.05.28-18.24.06:136][400]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0,739
+[2018.05.28-18.24.06:136][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.24.06:998][454]LogBlueprintUserMessages: [Stats_342] km travel :0.0m
+[2018.05.28-18.24.08:006][525]LogBlueprintUserMessages: [Stats_342] km travel :1.885044m
+[2018.05.28-18.24.09:011][591]LogBlueprintUserMessages: [Stats_342] km travel :1.959738m
+[2018.05.28-18.24.10:019][660]LogBlueprintUserMessages: [Stats_342] km travel :1.963978m
+[2018.05.28-18.24.11:026][725]LogBlueprintUserMessages: [Stats_342] km travel :3.704926m
+[2018.05.28-18.24.12:028][792]LogBlueprintUserMessages: [Stats_342] km travel :11.460038m
+[2018.05.28-18.24.13:038][856]LogBlueprintUserMessages: [Stats_342] km travel :23.5263m
+[2018.05.28-18.24.14:051][920]LogBlueprintUserMessages: [Stats_342] km travel :38.252533m
+[2018.05.28-18.24.15:057][987]LogBlueprintUserMessages: [Stats_342] km travel :53.602077m
+[2018.05.28-18.24.16:064][ 53]LogBlueprintUserMessages: [Stats_342] km travel :67.670158m
+[2018.05.28-18.24.17:072][119]LogBlueprintUserMessages: [Stats_342] km travel :74.938705m
+[2018.05.28-18.24.18:079][185]LogBlueprintUserMessages: [Stats_342] km travel :80.755684m
+[2018.05.28-18.24.19:093][250]LogBlueprintUserMessages: [Stats_342] km travel :85.894531m
+[2018.05.28-18.24.20:100][312]LogBlueprintUserMessages: [Stats_342] km travel :88.627777m
+[2018.05.28-18.24.21:108][381]LogBlueprintUserMessages: [Stats_342] km travel :90.455322m
+[2018.05.28-18.24.22:111][444]LogBlueprintUserMessages: [Stats_342] km travel :94.173752m
+[2018.05.28-18.24.23:137][510]LogBlueprintUserMessages: [Stats_342] km travel :100.992447m
+[2018.05.28-18.24.24:147][579]LogBlueprintUserMessages: [Stats_342] km travel :110.968307m
+[2018.05.28-18.24.25:148][642]LogBlueprintUserMessages: [Stats_342] km travel :119.732399m
+[2018.05.28-18.24.26:156][712]LogBlueprintUserMessages: [Stats_342] km travel :123.248161m
+[2018.05.28-18.24.27:166][777]LogBlueprintUserMessages: [Stats_342] km travel :125.015541m
+[2018.05.28-18.24.28:171][840]LogBlueprintUserMessages: [Stats_342] km travel :129.605331m
+[2018.05.28-18.24.29:175][907]LogBlueprintUserMessages: [Stats_342] km travel :139.590118m
+[2018.05.28-18.24.30:183][969]LogBlueprintUserMessages: [Stats_342] km travel :152.362732m
+[2018.05.28-18.24.31:187][ 37]LogBlueprintUserMessages: [Stats_342] km travel :158.939423m
+[2018.05.28-18.24.31:949][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.24.31:996][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.26.16:833][228]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002002b841180, Size=120
+[2018.05.28-18.26.16:833][228]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020049240180, Size=120, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_216:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.26.16:835][228]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020049240200, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.26.17:137][228]LogSavePackage: Save=309.53ms
+[2018.05.28-18.26.17:137][228]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleAdvExampleMap_Auto761B96C634F62BB8A626B66AAF6D57C9A.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto7.umap'
+[2018.05.28-18.26.17:140][228]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto7.umap
+[2018.05.28-18.26.17:145][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.392
+[2018.05.28-18.26.17:145][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.392
+[2018.05.28-18.26.17:147][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/Stats] ([1] browsable assets)...
+[2018.05.28-18.26.17:147][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/Stats]
+[2018.05.28-18.26.17:147][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/Stats" FILE="../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/Stats_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-18.26.17:206][228]LogSavePackage: Save=21.01ms
+[2018.05.28-18.26.17:206][228]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/Stats_Auto7C14D6B9B4EDB930562C99CB6D8798E5C.tmp' to '../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/Stats_Auto7.uasset'
+[2018.05.28-18.26.17:208][228]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/Stats_Auto7.uasset
+[2018.05.28-18.26.17:208][228]LogFileHelpers: Auto-saving content packages took 0.062
+[2018.05.28-18.30.29:562][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-18.30.29:563][986]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.28-18.30.30:131][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.30.30:131][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.28-18.30.30:131][986]PIE: New page: PIE session: VehicleAdvExampleMap (28 mai 2018 22:30:30)
+[2018.05.28-18.30.30:131][986]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.05.28-18.30.30:150][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018870s)
+[2018.05.28-18.30.30:151][986]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-18.30.30:151][986]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.05.28-18.30.30:151][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.019947s)
+[2018.05.28-18.30.30:175][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020049240180, Size=120
+[2018.05.28-18.30.30:181][986]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-18.30.30:189][986]LogInit: FAudioDevice initialized.
+[2018.05.28-18.30.30:222][986]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.28-18.30.30:231][986]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.05.28-20.30.30
+[2018.05.28-18.30.30:231][986]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-18.30.30:231][986]LogWorld: Bringing up level for play took: 0.004158
+[2018.05.28-18.30.30:234][986]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0,641
+[2018.05.28-18.30.30:234][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.30.30:583][  5]LogBlueprintUserMessages: [Stats_342] km travel :0.0m
+[2018.05.28-18.30.31:602][ 77]LogBlueprintUserMessages: [Stats_342] km travel :0.983898m
+[2018.05.28-18.30.32:557][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.30.32:593][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.31.32:557][ 40]BlueprintLog: New page: Compile VehicleBlueprint
+[2018.05.28-18.31.32:703][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020048940b80, Size=1968
+[2018.05.28-18.31.32:703][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x000002003a71d600, Size=1968, Default__VehicleBlueprint_C Function /Engine/Transient.REINST_VehicleBlueprint_C_226:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.31.32:729][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x000002003a79c100, Size=1984, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.31.33:487][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/VehicleBlueprint" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" SILENT=true
+[2018.05.28-18.31.33:723][ 47]LogSavePackage: Save=192.27ms
+[2018.05.28-18.31.33:723][ 47]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleBlueprint997CC46C4F1F7D0751FAF8B13AA828A1.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2018.05.28-18.31.33:729][ 47]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset
+[2018.05.28-18.31.34:689][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.28-18.31.34:715][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.31.34:715][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.28-18.31.34:715][112]PIE: New page: PIE session: VehicleAdvExampleMap (28 mai 2018 22:31:34)
+[2018.05.28-18.31.34:715][112]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.05.28-18.31.34:733][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017091s)
+[2018.05.28-18.31.34:734][112]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-18.31.34:734][112]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2018.05.28-18.31.34:734][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.018811s)
+[2018.05.28-18.31.34:756][112]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002003a71d600, Size=1968
+[2018.05.28-18.31.34:763][112]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-18.31.34:771][112]LogInit: FAudioDevice initialized.
+[2018.05.28-18.31.34:803][112]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.28-18.31.34:813][112]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.05.28-20.31.34
+[2018.05.28-18.31.34:813][112]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-18.31.34:813][112]LogWorld: Bringing up level for play took: 0.003938
+[2018.05.28-18.31.34:815][112]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0,059
+[2018.05.28-18.31.34:816][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.31.35:690][176]LogBlueprintUserMessages: [Stats_342] km travel :0.0m
+[2018.05.28-18.31.35:918][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.31.35:955][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.33.13:844][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-18.33.19:102][366]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-18.33.20:047][389]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-18.35.48:594][452]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2018.05.28-18.35.48:602][452]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020049240200, Size=120
+[2018.05.28-18.35.48:602][452]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020052d58100, Size=120, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_230:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.48:603][452]LogBlueprint: Error: [Compiler PersistentLevel.VehicleAdvExampleMap] Spawn node  Create Widget  must have a class specified.
+[2018.05.28-18.35.48:604][452]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020052d59600, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.49:077][452]LogBlueprint: Warning: [Compiler PersistentLevel.VehicleAdvExampleMap] [6280,47] Compile of PersistentLevel.VehicleAdvExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 482 ms] (/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap)
+[2018.05.28-18.35.50:505][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.28-18.35.50:532][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020052d58100, Size=120
+[2018.05.28-18.35.50:586][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020052d59600, Size=120
+[2018.05.28-18.35.50:586][465]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200380abd00, Size=120, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_234:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.50:586][465]LogBlueprint: Error: [Compiler PersistentLevel.VehicleAdvExampleMap] Spawn node  Create Widget  must have a class specified.
+[2018.05.28-18.35.50:588][465]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200380aa780, Size=120, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.50:588][465]LogBlueprint: Warning: [Compiler PersistentLevel.VehicleAdvExampleMap] [6281,98] Compile of PersistentLevel.VehicleAdvExampleMap failed. 1 Fatal Issue(s) 0 Warning(s) [in 6 ms] (/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap)
+[2018.05.28-18.35.50:904][465]LogSavePackage: Save=326.40ms
+[2018.05.28-18.35.50:905][465]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleAdvExampleMapAD98F22248ECE2EE284798BD2C84AFB8.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.05.28-18.35.50:912][465]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.05.28-18.35.51:001][465]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 1.540
+[2018.05.28-18.35.54:736][775]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-18.35.56:960][902]BlueprintLog: New page: Compile VehicleAdvExampleMap
+[2018.05.28-18.35.56:967][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200380aa780, Size=120
+[2018.05.28-18.35.56:967][902]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020052d59a00, Size=120, VehicleAdvExampleMap_C_0 Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_238:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.56:969][902]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffa696c900, Size=136, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.57:074][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200152d24b8, Size=4
+[2018.05.28-18.35.57:074][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020023509570, Size=48
+[2018.05.28-18.35.57:074][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020032c29268, Size=4
+[2018.05.28-18.35.57:074][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200380abd00, Size=120
+[2018.05.28-18.35.58:499][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap" FILE="../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.28-18.35.58:526][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020052d59a00, Size=120
+[2018.05.28-18.35.58:564][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffa696c900, Size=136
+[2018.05.28-18.35.58:564][948]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ffa4f58540, Size=136, Default__VehicleAdvExampleMap_C Function /Engine/Transient.REINST_VehicleAdvExampleMap_C_242:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.58:566][948]LogUObjectGlobals: Created PersistentFrame Addr=0x000002002d9bc860, Size=136, Default__VehicleAdvExampleMap_C Function /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C:ExecuteUbergraph_VehicleAdvExampleMap
+[2018.05.28-18.35.58:883][948]LogSavePackage: Save=325.09ms
+[2018.05.28-18.35.58:883][948]LogSavePackage: Moving '../../../../Jeu/DirtSim/Saved/VehicleAdvExampleMapC1053E4047E8E58CE606C493692909DC.tmp' to '../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2018.05.28-18.35.58:889][948]LogSavePackage: Display: Finished SavePackage ../../../../Jeu/DirtSim/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap
+[2018.05.28-18.35.58:928][948]LogFileHelpers: Saving map 'VehicleAdvExampleMap' took 1.244
+[2018.05.28-18.36.00:297][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.28-18.36.00:327][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.36.00:328][ 41]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.28-18.36.00:408][ 41]LogPlayLevel: [PlayLevel] Compiling VehicleBlueprint before play...
+[2018.05.28-18.36.00:481][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002003a79c100, Size=1984
+[2018.05.28-18.36.00:481][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x000002003808b580, Size=1984, Default__VehicleBlueprint_C Function /Engine/Transient.REINST_VehicleBlueprint_C_252:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.36.00:506][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020048186080, Size=1952, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.05.28-18.36.00:877][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ffa4f58540, Size=136
+[2018.05.28-18.36.00:877][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002003808b580, Size=1984
+[2018.05.28-18.36.00:879][ 41]LogPlayLevel: PlayLevel: Blueprint regeneration took 551 ms (1 blueprints)
+[2018.05.28-18.36.00:879][ 41]PIE: New page: PIE session: VehicleAdvExampleMap (28 mai 2018 22:36:00)
+[2018.05.28-18.36.00:879][ 41]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2018.05.28-18.36.00:899][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019372s)
+[2018.05.28-18.36.00:899][ 41]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2018.05.28-18.36.00:900][ 41]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.05.28-18.36.00:900][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.020313s)
+[2018.05.28-18.36.00:930][ 41]LogInit: XAudio2 using 'Haut-parleurs (USB PnP Sound Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-18.36.00:939][ 41]LogInit: FAudioDevice initialized.
+[2018.05.28-18.36.00:973][ 41]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2018.05.28-18.36.00:981][ 41]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2018.05.28-20.36.00
+[2018.05.28-18.36.00:981][ 41]LogGameMode: Warning: No GameStateClass was specified in VehicleAdvGameMode_C_0 (VehicleAdvGameMode_C)
+[2018.05.28-18.36.00:982][ 41]LogWorld: Bringing up level for play took: 0.004264
+[2018.05.28-18.36.00:985][ 41]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0,11
+[2018.05.28-18.36.00:985][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.36.01:634][ 86]LogBlueprintUserMessages: [Stats_342] km travel :0.0m
+[2018.05.28-18.36.02:640][180]LogBlueprintUserMessages: [Stats_342] km travel :1.909473m
+[2018.05.28-18.36.03:647][268]LogBlueprintUserMessages: [Stats_342] km travel :2.008276m
+[2018.05.28-18.36.04:652][351]LogBlueprintUserMessages: [Stats_342] km travel :2.012599m
+[2018.05.28-18.36.05:666][431]LogBlueprintUserMessages: [Stats_342] km travel :3.729856m
+[2018.05.28-18.36.06:666][508]LogBlueprintUserMessages: [Stats_342] km travel :10.015455m
+[2018.05.28-18.36.07:677][588]LogBlueprintUserMessages: [Stats_342] km travel :11.918161m
+[2018.05.28-18.36.08:680][667]LogBlueprintUserMessages: [Stats_342] km travel :11.925997m
+[2018.05.28-18.36.09:690][747]LogBlueprintUserMessages: [Stats_342] km travel :11.926517m
+[2018.05.28-18.36.10:698][826]LogBlueprintUserMessages: [Stats_342] km travel :11.928656m
+[2018.05.28-18.36.11:700][904]LogBlueprintUserMessages: [Stats_342] km travel :12.035814m
+[2018.05.28-18.36.12:701][981]LogBlueprintUserMessages: [Stats_342] km travel :12.415326m
+[2018.05.28-18.36.13:704][ 56]LogBlueprintUserMessages: [Stats_342] km travel :13.058715m
+[2018.05.28-18.36.14:710][132]LogBlueprintUserMessages: [Stats_342] km travel :13.300531m
+[2018.05.28-18.36.15:715][208]LogBlueprintUserMessages: [Stats_342] km travel :13.301376m
+[2018.05.28-18.36.16:717][284]LogBlueprintUserMessages: [Stats_342] km travel :13.301399m
+[2018.05.28-18.36.17:721][360]LogBlueprintUserMessages: [Stats_342] km travel :13.301586m
+[2018.05.28-18.36.18:725][436]LogBlueprintUserMessages: [Stats_342] km travel :13.301683m
+[2018.05.28-18.36.19:730][512]LogBlueprintUserMessages: [Stats_342] km travel :13.301686m
+[2018.05.28-18.36.20:732][588]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.21:738][664]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.22:743][740]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.23:754][816]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.24:759][892]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.25:760][968]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.26:766][ 44]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.27:767][120]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.28:771][196]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.29:775][272]LogBlueprintUserMessages: [Stats_342] km travel :13.301699m
+[2018.05.28-18.36.29:922][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.36.29:969][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2018.05.28-18.36.44:129][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-18.36.50:046][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.28-18.36.54:955][ 32]LogUObjectArray: Warning: Other object in slot
+[2018.05.28-18.36.55:125][ 32]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.170 s
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: 
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: Stack: 
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000001385B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x00000000135BAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x00000000135CECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x0000000008973DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000000C98B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000000BB4C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000000B9D77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000000B9DAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000000BB16E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x0000000011936057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-18.36.55:125][ 32]LogOutputDevice: Error: [Callstack] 0x000000001193BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000011B6C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000011990475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000011968360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000001195B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000001EABE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000001EAB1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000001EAC052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000001EAAD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000004F4E6CC1 USER32.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000004F4E6693 USER32.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000001EAC1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x00000000047F5475 UE4Editor.exe!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000004806BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000004806C4A UE4Editor.exe!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000004814177 UE4Editor.exe!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000004815B87 UE4Editor.exe!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x000000004F3C3034 KERNEL32.DLL!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: [Callstack] 0x0000000051F91551 ntdll.dll!UnknownFunction []
+[2018.05.28-18.36.55:126][ 32]LogOutputDevice: Error: 
+[2018.05.28-18.36.55:130][ 32]LogStats:                SubmitErrorReport -  0.000 s
